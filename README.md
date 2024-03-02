@@ -7,11 +7,11 @@ Feel free to connect with me through:
 2. [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thinhnguyen.05)
 3. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-dct-nguyen/)
 ## Description
-I create this repository to upload my assignments/projects related to this course. About this course, it focuses on R programming language and how to use R to handle variety
+I create this repository to upload my assignments/projects related to this course. STATS 220 focuses on **R programming language** and how to use R to handle variety
 of data challenges such as:
 * Importing data
 * Wrangling data
 * Visualizing data
 <!-- -->
-It also introduces some basic stuffs about HTML/CSS. For more information, please click [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) to read the course outlines.
+It also introduces some basic stuffs about HTML/CSS. For more information, please click [*here*](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) to read the course outlines.
 
